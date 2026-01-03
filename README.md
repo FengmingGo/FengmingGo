@@ -3,6 +3,8 @@
 我是你们的**凤鸣**，现就读于山东省枣庄市的枣庄市第三中学，目前是个高一学生
 
 <img width="1408" height="768" alt="generated_image_5abe43ac-adb5-4be1-9f4f-9699734b7c89" src="https://github.com/user-attachments/assets/3bb3d70c-e6ec-4ab8-a7fd-318bbf96d04a" />
+<img width="1408" height="768" alt="generated_image_8f7ffe0f-4924-4273-84d5-6f038a4368d3" src="https://github.com/user-attachments/assets/abcdb218-baa0-4381-8985-ce8ea227b1cf" />
+
 
 曾经有很多人问我为什么叫凤鸣，在此我解释一下。我第一次学棋是在2014年，棋院名字就叫**凤鸣棋院**；我的小学**枣庄市实验学校**在2016年和2017年时学校的报刊就叫**凤鸣报**。我把**凤鸣**当成自己的昵称也算是对儿时的一种怀念吧。
 
@@ -16,26 +18,32 @@
 
 个人主要在搞后端，对前端GUI以及网站什么的一窍不通
 
-哎呀
+欢迎加入[此QQ群](https://qm.qq.com/q/iBqhk0ySRy)进行交流
+~~也欢迎加入围棋[性压抑群](https://qm.qq.com/q/pjbXFr1I4g)谢谢喵~~
 
+# 😄 Pronouns:
+She/her/Zhilan/芷兰 ~~(...好吧实际上我真名叫顾芷兰)~~
+# 📫 How to reach me：
+QQ: 991881647
+
+Email: 991881647@qq.com
+
+B站：[凤鸣围棋](https://space.bilibili.com/3546391460710756?spm_id_from=333.337.0.0)
+
+# 🔭 I’m currently working on ...？
+#### *我、只是个、卑微的、高中生*
 ### *我、会、什么*
-
 ## *我、能、会、什么*
-
 # *我、啥、都、不会、啊*
 
-~~欢迎加入围棋[性压抑群](https://qm.qq.com/q/pjbXFr1I4g)谢谢喵~~
 <!--
 **FengmingGo/FengmingGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
